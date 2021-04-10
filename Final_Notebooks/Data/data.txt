@@ -1,0 +1,4 @@
+Link to Kaggle Dataset:
+https://www.kaggle.com/kosweet/cleaned-emotion-extraction-dataset-from-twitter
+
+To run custom cleaning code, generate the additional datasets from the 'Custom Preprocessing' file.
